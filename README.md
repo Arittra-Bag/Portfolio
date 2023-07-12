@@ -8,4 +8,4 @@ Site Link Below.*
 ```
 [Arittra's Portfolio](https://arittra-bag.github.io/Portfolio/)
 
-* **Under Development Phase**
+*Under Development Phase
